@@ -1,6 +1,6 @@
 {
   "name": "directory-organizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Auto organize directory based file types",
   "main": "app.js",
   "bin": {
@@ -11,7 +11,24 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "mehul.becs@gmail.com",
+  "author": {
+    "name": "Mehul Prajapati",
+    "email": "mehul.becs@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehulcs/directory-organizer"
+  },
+  "homepage": "https://github.com/mehulcs/directory-organizer",
+  "bugs": {
+    "url": "https://github.com/mehulcs/directory-organizer/issues"
+  },
+  "keywords": [
+    "Directory",
+    "Auto Organize",
+    "Files"
+  ],
+  "readmeFilename": "README.md",
   "license": "ISC",
   "dependencies": {
     "chokidar": "^3.2.1",
