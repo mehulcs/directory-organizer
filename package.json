@@ -1,7 +1,7 @@
 {
   "name": "directory-organizer",
-  "version": "1.0.0",
-  "description": "Auto organise directory based file types",
+  "version": "1.0.1",
+  "description": "Auto organize directory based file types",
   "main": "app.js",
   "bin": {
     "directory-organizer": "./cli.js"
