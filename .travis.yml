@@ -2,6 +2,6 @@ language: node_js
 deploy:
   provider: npm
   email: "mehul.becs@gmail.com"
-  api_key: "65cf0786-a064-4862-a885-37084a918727"
+  api_key: "036d75a2-b74b-49f6-807a-cf4d19d04e19"
   on:
     branch: master
